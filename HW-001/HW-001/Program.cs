@@ -45,6 +45,10 @@ namespace HW_001
                             calc.Division();
                             calc.ShowInfo("/");
                             break;
+                        case "koren":
+                            calc.Koren();
+                            calc.ShowInfo("+");
+                            break;
                         default:
                             Console.WriteLine("You have not selected a valid operation.");
                             break;

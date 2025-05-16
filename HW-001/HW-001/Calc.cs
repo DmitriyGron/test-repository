@@ -38,6 +38,12 @@ namespace HW_001
 
             return result = _firstValue / _secondValue;
         }
+
+        public double Koren()
+        {
+            return result = Math.Sqrt(_firstValue + _secondValue);
+        }
+
         public void ShowInfo(string operation)
         {
             Console.WriteLine($"{_firstValue} {operation} {_secondValue} = {result}");
