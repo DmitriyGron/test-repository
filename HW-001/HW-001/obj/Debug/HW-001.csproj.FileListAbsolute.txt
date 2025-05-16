@@ -1,0 +1,7 @@
+D:\Projects\C#\HW-001\HW-001\bin\Debug\HW-001.exe.config
+D:\Projects\C#\HW-001\HW-001\bin\Debug\HW-001.exe
+D:\Projects\C#\HW-001\HW-001\bin\Debug\HW-001.pdb
+D:\Projects\C#\HW-001\HW-001\obj\Debug\HW-001.csproj.AssemblyReference.cache
+D:\Projects\C#\HW-001\HW-001\obj\Debug\HW-001.csproj.CoreCompileInputs.cache
+D:\Projects\C#\HW-001\HW-001\obj\Debug\HW-001.exe
+D:\Projects\C#\HW-001\HW-001\obj\Debug\HW-001.pdb
