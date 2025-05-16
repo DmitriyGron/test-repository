@@ -1,0 +1,76 @@
+## Бинарники и сборочные файлы
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+
+## Папки Visual Studio
+.vs/
+.vscode/
+
+## Файлы настроек Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Конфигурации и логи
+*.log
+*.tlog
+
+## Настройки ReSharper и Rider
+*.DotSettings.user
+.idea/
+
+## Файлы публикации
+publish/
+*.pubxml
+*.publishproj
+
+## NuGet пакеты
+*.nupkg
+# Папка с пакетами (если не используешь PackageReference)
+packages/
+
+## Файлы тестирования
+TestResults/
+*.vsp
+*.vspx
+*.coverage
+*.coveragexml
+*.pdb
+
+## Разное
+*.tmp
+*.bak
+*.swp
+*.orig
+*.cache
+*.dbmdl
+*.mdf
+*.ldf
+
+## Конфиденциальные и временные файлы
+appsettings.Development.json
+secrets.json
+
+## Git и OS служебные файлы
+.DS_Store
+Thumbs.db
+*.class
+*.psess
+*.pidb
+
+## Rider
+.idea/
+
+## Windows специфичное
+ehthumbs.db
+desktop.ini
+
+## JetBrains Rider
+*.sln.iml
+
+# Папки, специфичные для Mac/Linux окружений (если работаешь в кроссплатформе)
+*.pidb
+*.sln.iml
