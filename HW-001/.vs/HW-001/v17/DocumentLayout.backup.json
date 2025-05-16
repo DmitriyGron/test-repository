@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\C#\\HW-001\\",
+  "WorkspaceRootPath": "C:\\Users\\unvmj\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test-repository\\HW-001\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{573EFFA4-CA7A-4325-8E43-A1179FC4C98C}|HW-001\\HW-001.csproj|d:\\projects\\c#\\hw-001\\hw-001\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{573EFFA4-CA7A-4325-8E43-A1179FC4C98C}|HW-001\\HW-001.csproj|solutionrelative:hw-001\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{573EFFA4-CA7A-4325-8E43-A1179FC4C98C}|HW-001\\HW-001.csproj|C:\\Users\\unvmj\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test-repository\\HW-001\\hw-001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{573EFFA4-CA7A-4325-8E43-A1179FC4C98C}|HW-001\\HW-001.csproj|solutionrelative:hw-001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{573EFFA4-CA7A-4325-8E43-A1179FC4C98C}|HW-001\\HW-001.csproj|d:\\projects\\c#\\hw-001\\hw-001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{573EFFA4-CA7A-4325-8E43-A1179FC4C98C}|HW-001\\HW-001.csproj|solutionrelative:hw-001\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{573EFFA4-CA7A-4325-8E43-A1179FC4C98C}|HW-001\\HW-001.csproj|c:\\users\\unvmj\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test-repository\\hw-001\\hw-001\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{573EFFA4-CA7A-4325-8E43-A1179FC4C98C}|HW-001\\HW-001.csproj|solutionrelative:hw-001\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Calc.cs",
-              "DocumentMoniker": "D:\\Projects\\C#\\HW-001\\HW-001\\Calc.cs",
+              "DocumentMoniker": "C:\\Users\\unvmj\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test-repository\\HW-001\\HW-001\\Calc.cs",
               "RelativeDocumentMoniker": "HW-001\\Calc.cs",
-              "ToolTip": "D:\\Projects\\C#\\HW-001\\HW-001\\Calc.cs",
+              "ToolTip": "C:\\Users\\unvmj\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test-repository\\HW-001\\HW-001\\Calc.cs",
               "RelativeToolTip": "HW-001\\Calc.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwDEAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T17:21:53.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\C#\\HW-001\\HW-001\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\unvmj\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test-repository\\HW-001\\HW-001\\Program.cs",
               "RelativeDocumentMoniker": "HW-001\\Program.cs",
-              "ToolTip": "D:\\Projects\\C#\\HW-001\\HW-001\\Program.cs",
+              "ToolTip": "C:\\Users\\unvmj\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\test-repository\\HW-001\\HW-001\\Program.cs",
               "RelativeToolTip": "HW-001\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAUwDEAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwB0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T17:18:03.869Z",
               "EditorCaption": ""

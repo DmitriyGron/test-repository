@@ -5,3 +5,10 @@ D:\Projects\C#\HW-001\HW-001\obj\Debug\HW-001.csproj.AssemblyReference.cache
 D:\Projects\C#\HW-001\HW-001\obj\Debug\HW-001.csproj.CoreCompileInputs.cache
 D:\Projects\C#\HW-001\HW-001\obj\Debug\HW-001.exe
 D:\Projects\C#\HW-001\HW-001\obj\Debug\HW-001.pdb
+C:\Users\unvmj\OneDrive\Рабочий стол\test-repository\HW-001\HW-001\bin\Debug\HW-001.exe.config
+C:\Users\unvmj\OneDrive\Рабочий стол\test-repository\HW-001\HW-001\bin\Debug\HW-001.exe
+C:\Users\unvmj\OneDrive\Рабочий стол\test-repository\HW-001\HW-001\bin\Debug\HW-001.pdb
+C:\Users\unvmj\OneDrive\Рабочий стол\test-repository\HW-001\HW-001\obj\Debug\HW-001.csproj.AssemblyReference.cache
+C:\Users\unvmj\OneDrive\Рабочий стол\test-repository\HW-001\HW-001\obj\Debug\HW-001.csproj.CoreCompileInputs.cache
+C:\Users\unvmj\OneDrive\Рабочий стол\test-repository\HW-001\HW-001\obj\Debug\HW-001.exe
+C:\Users\unvmj\OneDrive\Рабочий стол\test-repository\HW-001\HW-001\obj\Debug\HW-001.pdb

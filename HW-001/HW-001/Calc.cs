@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics.Contracts;
 
 namespace HW_001
 {
@@ -40,6 +41,11 @@ namespace HW_001
         }
 
         public double Koren()
+        {
+            return result = Math.Sqrt(_firstValue + _secondValue);
+        }
+
+        public double Sqrt()
         {
             return result = Math.Sqrt(_firstValue + _secondValue);
         }
